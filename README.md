@@ -54,6 +54,11 @@ This Book Recommender System is designed to provide personalized book recommenda
     pip install scikit-learn
     ```
 
+## Data Source
+
+The dataset used in this project can be downloaded from Kaggle (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)).
+
+
 ### Usage
 
 1. Run the Flask server:
