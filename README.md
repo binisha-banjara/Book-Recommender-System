@@ -32,27 +32,27 @@ This Book Recommender System is designed to provide personalized book recommenda
 
   i. Install Flask:
 
-    ```bash
+```bash
     pip install Flask
-    ```
+```
 
   ii. Install Pandas:
 
-    ```bash
+```bash
     pip install pandas
-    ```
+```
 
   iii. Install numpy:
 
-    ```bash
+```bash
     pip install numpy
-    ```
+```
 
   iii. Install scikit-learn:
 
-    ```bash
+```bash
     pip install scikit-learn
-    ```
+```
 
 ## Data Source
 
